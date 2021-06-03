@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppThme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#00897B</item>
+        <item name="colorAccent">#000000</item>
+
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>
